@@ -23,7 +23,7 @@ Preprocessing steps include handling missing values, encoding categorical variab
 ---
 
 ## 🚀 Key Highlights
-- Evaluation of **30 diverse ML models** under identical conditions.  
+- Evaluation of **28 diverse ML models** under identical conditions.  
 - Metrics: Accuracy, F1-score, ROC-AUC, R², MSE, MAE, Silhouette Score, and training time.  
 - Visualizations: Annotated bar plots for classification, regression, unsupervised, and deep learning models.  
 - Statistical validation of performance differences.  
